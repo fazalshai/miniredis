@@ -1,0 +1,11 @@
+# Go binaries
+bin/
+miniredis
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Local configs / logs
+*.log
+.DS_Store
